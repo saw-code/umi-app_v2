@@ -15,6 +15,7 @@ export default defineConfig({
     logo: 'https://img.icons8.com/ios-filled/50/ffffff/customer-insight.png',
     iconfontUrl: '',
   },
+
   theme: {
     'primary-color': '#1895bb',
   },
