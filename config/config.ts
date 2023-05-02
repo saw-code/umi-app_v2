@@ -15,7 +15,9 @@ export default defineConfig({
     logo: 'https://img.icons8.com/ios-filled/50/ffffff/customer-insight.png',
     iconfontUrl: '',
   },
-
+  ghPages: {
+    useCDN: true,
+  },
   theme: {
     'primary-color': '#1895bb',
   },
